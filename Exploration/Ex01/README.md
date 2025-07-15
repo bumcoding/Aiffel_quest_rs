@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 박범찬
-- 리뷰어 : 장수봉
+- 리뷰어 : ?
 
 
 # PRT(Peer Review Template)
@@ -37,7 +37,7 @@
 
 # 회고(참고 링크 및 코드 개선)
 
-**project1(Diabetes)**
+- project1(Diabetes)
 
 목표 : MSE를 3000 이하로 낮추기!
 시도
@@ -46,8 +46,7 @@
 - [x] 특성 스케일링 추가 (train과 test에 동일한 평균, 표준편차 적용 (평균 0, 표준편차 1))
     - MSE를 3000 이하로 낮춤 (4710 -> 2885)
 
-
-**project2(Bike)**
+- project2(Bike)
 
 목표 : RMSE를 150 이하로 낮추기!
 시도
